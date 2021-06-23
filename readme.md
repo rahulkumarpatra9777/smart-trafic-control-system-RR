@@ -63,8 +63,8 @@ Step IV: Run the code
       ---------------------------------------------
       
       
-      contributors - RAHUL KUMAR PATRA (IGIT SARANG)
-                     RAMAN RANJAN DASH(IGIT SARANG)
+      contributors - RAHUL KUMAR PATRA (IGIT SARANG) - https://github.com/rahulkumarpatra9777
+                     RAMAN RANJAN DASH(IGIT SARANG) - https://github.com/RrD-111
                      
                      
                      THANK YOU
