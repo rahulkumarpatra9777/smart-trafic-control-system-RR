@@ -39,8 +39,10 @@ Read more about object detection model used, working of the algorithm, and devel
 
 Installation
 Step I: Clone the Repository
-      $ git clone https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer
+
+      and git clone https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer
 Step II: Download the weights file from here and place it in the Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow/bin directory
+
 
 Step III: Install the required packages
 
