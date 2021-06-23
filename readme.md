@@ -46,6 +46,8 @@ Step II: Download the weights file from here and place it in the Adaptive-Traffi
 
 Step III: Install the required packages
 
+
+
       # On the terminal, move into Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow directory
       $ cd Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow
       $ pip install -r requirements.txt
@@ -56,5 +58,15 @@ Step IV: Run the code
       
       # To run simulation
       $ python simulation.py
+      
+      
+      ---------------------------------------------
+      
+      
+      contributors - RAHUL KUMAR PATRA (IGIT SARANG)
+                     RAMAN RANJAN DASH(IGIT SARANG)
+                     
+                     
+                     THANK YOU
 
 
